@@ -1,0 +1,8 @@
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\bin\Debug\Account.exe.config
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\bin\Debug\Account.exe
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\bin\Debug\Account.pdb
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\obj\Debug\Account.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\obj\Debug\Account.exe
+C:\Users\Admin\OneDrive\Desktop\.net programm\Account\Account\obj\Debug\Account.pdb

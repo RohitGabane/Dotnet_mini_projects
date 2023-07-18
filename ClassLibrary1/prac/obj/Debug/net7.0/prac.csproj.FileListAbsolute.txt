@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\bin\Debug\net7.0\prac.exe
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\bin\Debug\net7.0\prac.deps.json
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\bin\Debug\net7.0\prac.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\bin\Debug\net7.0\prac.dll
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\bin\Debug\net7.0\prac.pdb
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.dll
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\refint\prac.dll
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.pdb
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\prac.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary1\prac\obj\Debug\net7.0\ref\prac.dll

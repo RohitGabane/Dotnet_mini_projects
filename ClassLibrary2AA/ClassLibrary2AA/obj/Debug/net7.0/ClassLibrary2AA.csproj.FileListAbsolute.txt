@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\bin\Debug\net7.0\ClassLibrary2AA.deps.json
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\bin\Debug\net7.0\ClassLibrary2AA.dll
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\bin\Debug\net7.0\ClassLibrary2AA.pdb
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ClassLibrary2AA.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ClassLibrary2AA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ClassLibrary2AA.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ClassLibrary2AA.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ClassLibrary2AA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ClassLibrary2AA.dll
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\refint\ClassLibrary2AA.dll
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ClassLibrary2AA.pdb
+C:\Users\Admin\OneDrive\Desktop\.net programm\ClassLibrary2AA\ClassLibrary2AA\obj\Debug\net7.0\ref\ClassLibrary2AA.dll

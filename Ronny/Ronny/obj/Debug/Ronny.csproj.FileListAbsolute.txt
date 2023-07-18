@@ -1,0 +1,8 @@
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\bin\Debug\Ronny.exe.config
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\bin\Debug\Ronny.exe
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\bin\Debug\Ronny.pdb
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\obj\Debug\Ronny.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\obj\Debug\Ronny.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\obj\Debug\Ronny.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\obj\Debug\Ronny.exe
+C:\Users\Admin\OneDrive\Desktop\.net programm\Ronny\Ronny\obj\Debug\Ronny.pdb
